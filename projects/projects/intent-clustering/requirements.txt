@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+openpyxl
+matplotlib
+sentence-transformers
+hdbscan
+umap-learn
