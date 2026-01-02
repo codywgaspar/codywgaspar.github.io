@@ -1,4 +1,3 @@
-# Cody Gaspar
 
 Data-driven engineering and analytics projects focused on real-world decision making.
 
